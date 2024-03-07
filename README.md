@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @boliyevfirdavs
-- 👀 I’m interested in computer vision
+- 👀 I’m interested in computer vision, ML/AI
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
